@@ -14,17 +14,20 @@ A normal ML has only one Neural Network .But Gans consist of two neural networks
  Model that is used to classify examples as real (from the domain) or fake (generated).
 
 
-Trainig a gan on Brain MRI dataset
+# Trainig a gan on Brain MRI dataset
+
 Input:
+
 ![nonDem40 jpg_resized](https://user-images.githubusercontent.com/62300368/179840894-6ca0e88d-a94b-4177-9496-b41d3a142f6c.jpg)
 ![mildDem700 jpg_resized](https://user-images.githubusercontent.com/62300368/179840954-de5afc8e-7204-44dc-a419-698d8873bae2.jpg)
 
 Output:
+
 ![testing_18](https://user-images.githubusercontent.com/62300368/179840991-459de772-af78-4b52-ada5-e403a7828dba.png)
 ![testing_56](https://user-images.githubusercontent.com/62300368/179841015-61b6a1fb-8315-40ce-ba8e-ebd9619b6f73.png)
 
 
-Advantages
+# Advantages
 1.	Cross modality image synthesis and image fusion.
 images from CT, PET, and MR images differ from each other in terms of complexity and dimensionality to incorporate modalityspecific information which ultimately assists in better diagnosis. However, these diversities create a major constrain when it comes to cross-modality image synthesis. For instance, hybrid imaging involves simultaneous imaging from two modalities like MRI/PET, CT/PET imaging. The extraction of information of one modality from the hybrid images is usually a tough exercise.
 2.	Reduced radiation dose with minimal loss of image quality in radiation dependent imaging modalities.
