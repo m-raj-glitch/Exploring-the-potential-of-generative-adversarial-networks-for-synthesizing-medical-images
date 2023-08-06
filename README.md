@@ -2,7 +2,7 @@
 In a developing Nation like India Medical Image samples are often less in number than required for various research and clinical studies.
 Small data sets are major obstacles, in particular for supervised machine learning. To overcome this hurdle, some efforts have turned to the augmentation of existing data.
 
-# gan
+# Gan Architecture
 ![image](https://user-images.githubusercontent.com/62300368/179840552-29a46759-8218-472f-963f-ef0c8bebc382.png)
 
 A normal ML has only one Neural Network .But Gans consist of two neural networks
